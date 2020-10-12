@@ -1,0 +1,8 @@
+﻿  OpenCV_Library.cpp
+     Creating library C:\Users\Dustin\source\repos\OpenCV_Library\x64\Release\OpenCV_Library.lib and object C:\Users\Dustin\source\repos\OpenCV_Library\x64\Release\OpenCV_Library.exp
+  Generating code
+  52 of 443 functions (11.7%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenCV_Library.vcxproj -> C:\Users\Dustin\source\repos\OpenCV_Library\x64\Release\OpenCV_Library.dll
